@@ -1,4 +1,4 @@
-package com.mskjp.NamedCapture;
+package com.mskjp.namedcapture;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

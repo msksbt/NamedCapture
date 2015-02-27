@@ -1,4 +1,4 @@
-package com.mskjp.NamedCapture;
+package com.mskjp.namedcapture;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;
